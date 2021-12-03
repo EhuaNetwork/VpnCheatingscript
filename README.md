@@ -14,3 +14,6 @@ web自动化脚本
 第二步：打开chromedriver75.exe
 
 第三步：执行temp.php
+
+
+网站更新：http://nxc2p.duokuai02.com:5658/invite?code=aajM42HL
